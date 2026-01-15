@@ -43,6 +43,6 @@ Convert the project into a web application using Streamlit
 Enhance prediction using advanced time series models
 Generate automated PDF expense reports
 
-Author
+Author,
 Mir Mursaleen
 Data Analyst and Python Developer
