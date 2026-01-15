@@ -1,0 +1,11 @@
+Date,Category,Amount,Payment_Mode
+2025-01-01,Food,250,Cash
+2025-01-02,Transport,120,UPI
+2025-01-03,Entertainment,400,Card
+2025-01-04,Food,300,Cash
+2025-01-05,Shopping,1200,Card
+2025-01-06,Bills,1800,UPI
+2025-01-07,Food,220,UPI
+2025-01-08,Transport,150,Cash
+2025-01-09,Entertainment,500,Card
+2025-01-10,Shopping,900,UPI
